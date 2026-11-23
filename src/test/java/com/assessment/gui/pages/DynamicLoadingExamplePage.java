@@ -2,10 +2,7 @@ package com.assessment.gui.pages;
 
 import org.openqa.selenium.By;
 
-/**
- * {@code /dynamic_loading/{n}} - renders hidden content only after the loading
- * indicator disappears, which is what the test synchronises on.
- */
+
 public class DynamicLoadingExamplePage extends BasePage {
 
     private static final By START_BUTTON = By.cssSelector("#start button");

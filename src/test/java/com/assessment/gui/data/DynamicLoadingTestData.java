@@ -2,7 +2,6 @@ package com.assessment.gui.data;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
-/** One row of {@code testdata/dynamic-loading.json}. */
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class DynamicLoadingTestData {
 

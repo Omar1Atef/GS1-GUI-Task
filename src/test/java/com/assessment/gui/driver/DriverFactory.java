@@ -7,10 +7,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
 
-/**
- * Creates browser sessions. Driver binaries are resolved by Selenium Manager,
- * so no driver executables are committed or configured manually.
- */
+
 final class DriverFactory {
 
     private static final String WINDOW_SIZE = "1920,1080";

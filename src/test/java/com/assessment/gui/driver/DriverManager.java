@@ -3,10 +3,7 @@ package com.assessment.gui.driver;
 import com.assessment.gui.config.Configuration;
 import org.openqa.selenium.WebDriver;
 
-/**
- * Holds one {@link WebDriver} per thread, so tests can run in parallel and no
- * page object ever needs a driver passed into it.
- */
+
 public final class DriverManager {
 
     private static final ThreadLocal<WebDriver> DRIVER = new ThreadLocal<>();

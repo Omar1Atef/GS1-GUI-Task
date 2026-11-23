@@ -4,7 +4,6 @@ import org.openqa.selenium.By;
 
 import java.nio.file.Path;
 
-/** {@code /upload} - choose a file and submit it. */
 public class FileUploadPage extends BasePage {
 
     private static final By FILE_INPUT = By.id("file-upload");

@@ -2,7 +2,6 @@ package com.assessment.gui.data;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
-/** One row of {@code testdata/file-upload.json}. */
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class FileUploadTestData {
 
