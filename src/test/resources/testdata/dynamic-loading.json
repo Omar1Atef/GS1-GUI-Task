@@ -1,0 +1,7 @@
+[
+  {
+    "caseName": "Example 2 - element rendered after loading",
+    "exampleNumber": 2,
+    "expectedText": "Hello World!"
+  }
+]

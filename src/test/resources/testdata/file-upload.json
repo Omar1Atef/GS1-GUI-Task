@@ -1,0 +1,7 @@
+[
+  {
+    "caseName": "Upload a small PNG image",
+    "file": "files/sample-image.png",
+    "expectedHeading": "File Uploaded!"
+  }
+]
