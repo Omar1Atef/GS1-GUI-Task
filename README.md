@@ -104,7 +104,7 @@ reviewer has to read:
 
 ## Running from IntelliJ
 
-Open `gui-automation` as a Maven project (`File → Open` → select its `pom.xml`). Right-click
+Open this repository as a Maven project (`File → Open` → select its `pom.xml`). Right-click
 `FileUploadTest` or `DynamicLoadingTest` → *Run*.
 
 Running a test class directly from the IDE uses the TestNG runner rather than Maven, so Maven
